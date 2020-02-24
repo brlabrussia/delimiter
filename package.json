@@ -1,5 +1,5 @@
 {
-  "name": "@editorjs/delimiter",
+  "name": "@socialbet/editorjs-delimiter",
   "version": "1.1.0",
   "keywords": [
     "codex editor",
@@ -8,9 +8,9 @@
     "editor.js",
     "editorjs"
   ],
-  "description": "Delimiter Tool for Editor.js",
+  "description": "Socialbet Fork: Delimiter Tool for Editor.js",
   "license": "MIT",
-  "repository": "https://github.com/editor-js/delimiter",
+  "repository": "https://github.com/brlabrussia/editor.js-delimiter",
   "main": "./dist/bundle.js",
   "scripts": {
     "build": "webpack --mode production",
